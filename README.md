@@ -2,6 +2,7 @@
 Document my configuration process and solution.
 
 中文输入法！！！
+ibus 目前还可以我在尝试 rime
 
 1. 系统源
    apt | pacman | apk
