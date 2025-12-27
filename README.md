@@ -1,6 +1,8 @@
 # Ubuntu-setup
 Document my configuration process and solution.
 
+中文输入法！！！
+
 1. 系统源
    apt | pacman | apk
 3. 语言工具链
@@ -13,4 +15,5 @@ Document my configuration process and solution.
    vscode | neovim
 7. 终端
    zsh+oh-my-zsh | eza
-   
+8. 软件
+   todesk
