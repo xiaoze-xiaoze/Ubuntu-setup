@@ -9,7 +9,7 @@ firefox 不好用我换的 chrome
 配一下去 github 镜像配一下 clash verge
 
 1. 系统源
-   apt
+   apt | snap | flatpak
 3. 语言工具链
    gcc/clang | openjdk | python | rustup
 4. 语言包管理
