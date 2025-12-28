@@ -22,3 +22,6 @@ firefox 不好用我换的 chrome
    fish
 9. 软件
    todesk | wechat
+
+一些好用的工具：
+   tldr：目前在尝试，目测对初学者友好
