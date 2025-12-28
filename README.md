@@ -25,3 +25,5 @@ firefox 不好用我换的 chrome
 
 一些好用的工具：
    tldr：目前在尝试，目测对初学者友好
+   shellcheck：静态检查脚本语法
+   bash-it：themes：sexy | 自动补全
