@@ -19,6 +19,6 @@ firefox 不好用我换的 chrome
 6. 编辑器
    vscode | neovim
 7. 终端
-   zsh+oh-my-zsh | eza
-8. 软件
-   todesk
+   fish
+9. 软件
+   todesk | wechat
