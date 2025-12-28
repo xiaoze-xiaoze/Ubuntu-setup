@@ -2,7 +2,7 @@
 Document my configuration process and solution.
 
 中文输入法！！！
-ibus 目前还可以我在尝试 rime
+ibus 的 rime 目前还可以但是默认是繁体字需要配置一下
 
 1. 系统源
    apt | pacman | apk
