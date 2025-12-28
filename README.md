@@ -13,7 +13,7 @@ firefox 不好用我换的 chrome
 3. 语言工具链
    gcc | openjdk | python | rustup
 4. 语言包管理
-   pip | micromamba | vcpkg | maven | cargo
+   pip | mamba | vcpkg | maven | cargo
 5. 开发周边
    git | cmake | ninja | ccache | docker
 6. 编辑器
