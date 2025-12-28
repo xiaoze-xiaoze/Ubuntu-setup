@@ -11,7 +11,7 @@ firefox 不好用我换的 chrome
 1. 系统源
    apt | snap | flatpak
 3. 语言工具链
-   gcc/clang | openjdk | python | rustup
+   gcc | openjdk | python | rustup
 4. 语言包管理
    pip | minimamba | vcpkg | maven | cargo
 5. 开发周边
