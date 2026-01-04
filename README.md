@@ -22,3 +22,5 @@ VPN: clash verge
 软件: todesk
 
 nvim 由于配置繁琐我会单开一个仓库
+
+GTK Theme: Orchis-macos
