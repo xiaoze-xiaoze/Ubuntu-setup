@@ -15,12 +15,10 @@ VPN: clash verge
 
 开发周边: git | cmake | ninja | ccache | docker | shellcheck
 
-编辑器: vscode | neovim(学习成本高)
+编辑器: vscode
 
 终端: fish | tldr | bash-it
 
 软件: todesk
-
-nvim 由于配置繁琐我会单开一个仓库
 
 GTK Theme: Orchis-macos
