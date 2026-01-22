@@ -15,7 +15,7 @@ VPN: clash verge
 
 编辑器: vscode
 
-终端: fish | tldr | bash-it
+终端: fish
 
 软件: todesk
 
