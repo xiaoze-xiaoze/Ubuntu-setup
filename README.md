@@ -7,8 +7,6 @@ Document my configuration process and solution.
 
 VPN: clash verge
 
-系统源: apt | snap | flatpak
-
 语言工具链: gcc | openjdk | python | rustup | golang
 
 语言包管理: pip | mamba | vcpkg | maven | cargo(自带)
